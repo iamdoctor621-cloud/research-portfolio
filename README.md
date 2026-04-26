@@ -1,6 +1,6 @@
 # Clinical Research Portfolio
 
-> **Physician-Researcher | Internal Medicine | Cardiology Focus**
+> **Physician-Researcher**
 > Leveraging TriNetX and the NIH All of Us Research Program to advance cardiovascular and neurological clinical science.
 
 ---
