@@ -74,9 +74,8 @@
 
 ## Contact
 
-**Physician-Researcher**
-Internal Medicine | Cardiology Research
-New York City, NY
+**Physician**
+
 
 ---
 
